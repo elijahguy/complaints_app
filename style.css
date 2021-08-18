@@ -1,0 +1,12 @@
+form {
+    display: inline-block;
+  }
+  
+  button {
+    padding: 5px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
